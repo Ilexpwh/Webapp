@@ -36,14 +36,6 @@ Backend packages (see package.json in server folder)
     "pg": "^8.6.0"
 }
 
-COMPANY NAMES
-smt       -SMT GLOBAL LOGISTICS LTD.
-kg        -KG(HK) LOGISTICS LTD.
-penavico  -PENAVICO SHENZHEN LOGISTICS LTD
-gtts      -GRAND TIME TRANS SERVICE CO LTD.
-fafalux   -FAFALUX GLOBAL CO LTD.
-wpl       - WPL
-
 //image
 1. Upload and retrieve image to/from AWS S3
 2. Save S3 path to postgres when upload and retrieve by that path 
